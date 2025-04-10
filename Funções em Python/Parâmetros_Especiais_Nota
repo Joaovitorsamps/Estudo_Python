@@ -1,0 +1,9 @@
+Por padrão, argumentos podem ser passados para uma função Python
+tanto por posição quanto explicitamente pelo nome.
+Para maior legibilidadde e desempenho, faz sentido restringir
+a maneira pelo qual argumentos possam ser passados.
+Dessa forma, o desenvolvedor precisa apenas olhar para a definição
+da função para determinar se os itens são passados por posição,
+por posição e nome ou só pelo nome
+
+sintaxe --> f(posicao_1, posicao_2, /, posicao_ou_nome, *, nome1, nome2)

@@ -1,0 +1,5 @@
+Em Python tudo é obejto, dessa forma, funções também são objetos,
+o que as torna objetos de primeira classe. Com isso, podemos atribuir
+funções a variáveis, passa-las como parâmetro para funções, usa-las 
+como valores em estruturas de dados (listas, tuplas, dicionários, etc)
+e usar como valor de retorno para uma função (closures)
