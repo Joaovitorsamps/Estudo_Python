@@ -1,0 +1,4 @@
+Listas podem armazenar todos os tipos de objetos em Python,
+portanto podemos ter listas que armazenam outras listas. Com
+isso pode-se criar estruturas bidimensionais (tabelas/matrizes), e 
+acessar informando os indices de linha e coluna
