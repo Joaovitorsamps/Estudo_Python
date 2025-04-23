@@ -1,0 +1,7 @@
+1. Representa bem os relacionamentos do mundo real 
+2. Fornece reutilização de código, não precisamos escrever o
+   mesmo código repetidamente. Além disso, permite 
+   adiconar mais recursos a uma classe sem modificá-la.
+3. É de natureza transitiva, o que significa que, se a classe B 
+   herdar da classe A, todas as subclasses de B herdarão
+   automaticamente da classe A 
