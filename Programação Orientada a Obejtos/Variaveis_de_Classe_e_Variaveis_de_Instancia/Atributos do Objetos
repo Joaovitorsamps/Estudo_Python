@@ -1,3 +1,4 @@
 Todos os objetos nascem com o mesmo número de atributos
 de classe e de instância. Atributos de instância são diferentes
-para cada objetos (cada objeto tem uma cópia), já os atributosde classe são compartilhados entre os objetos.
+para cada objetos (cada objeto tem uma cópia), já os atributosde classe são 
+compartilhados entre os objetos.

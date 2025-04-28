@@ -1,4 +1,5 @@
 class Estudante:
+    #Variáveis de Classe sõo declaradas após a inicialização da Class
     faculdade = "FAMETRO"
 
     def __init__(self, nome, matricula):
